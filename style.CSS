@@ -1,0 +1,17 @@
+.name_of_objects{
+    color: yellow;
+}
+body{
+    color: white;
+    background-color: red;
+}
+.heading{
+    width: 80%;
+    font-size: 20px;
+    color: yellow;
+}
+#camera{
+    height: 400px;
+    width: 400px;
+    border: 2px dashed pink ;
+}
